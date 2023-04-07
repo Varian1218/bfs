@@ -1,8 +1,8 @@
 {
   "description": "",
-  "displayName": "BFS",
+  "displayName": "Breadth First Searches",
   "keywords": [],
-  "name": "com.little-lion.bfs",
+  "name": "com.little-lion.breadth-first-searches",
   "unity": "2021.3",
-  "version": "1.0.3"
+  "version": "2.0.0"
 }
